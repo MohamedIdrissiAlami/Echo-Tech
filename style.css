@@ -162,3 +162,39 @@ footer{
     margin-right: 30px;
     margin-top:18px;
 }
+/*                        about us               */
+.about1{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+.about-sub-content{
+    display: flex;
+    justify-content: space-between;
+}
+.about1-content{
+    height: 70%;
+    width: 45%;
+    margin: 60px;
+}
+
+.about2{
+    height: 72vh;
+    display: flex;
+    justify-content: space-between;
+
+}
+.about2-supercontent{
+    height: 50%;
+    width: 70%;
+   margin-top: 20%;
+   margin-left:33%;
+} 
+
+.about3{
+    height: 106vh;
+    display: flex;
+    justify-content: space-between;
+
+}
+
