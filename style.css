@@ -198,3 +198,18 @@ footer{
 
 }
 
+/*                         contact us                               */
+
+.contact-us-container{
+    border: solid red;
+    height: 100vh;
+    background-image: url(imagess/contact-us/contact\ us\ pic\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.contactUs-page1{
+    height: 70%;
+}
