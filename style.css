@@ -1,0 +1,164 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+button{
+    background-color: rgba(45, 45, 106, 0.464);
+    color:white
+}
+
+.home-header{
+    display:flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    display:flex;
+    justify-content: space-between;
+
+}
+nav ul li{
+    list-style: none;
+    width:80px;
+}
+.home-page1{
+   
+    height: 100vh;
+    background-image: url(imagess/home/1_raw.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+ .content1{
+    height: 40%;
+    width: 26%;
+    margin: 20%;
+} 
+
+.home-page1-buttons{
+
+    margin-top:120px;
+    display: flex;
+
+}
+#home-page1-button1{
+    margin-left:45px;
+   
+    width:150px;
+    height:30px;
+    color:white;
+}
+#home-page1-button2{
+    background-color: whitesmoke;
+    color: black;
+    margin-left:20px;
+    width:150px;
+    height:30px;
+
+}
+
+.home-page2{
+    height: 70vh;
+    background-image: url(imagess/home/2_raw.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.content2{
+
+    height:72%;
+    width:40%;
+    margin:72px;
+}
+.sub-content2{
+    margin-top:72px ;
+    display:flex;
+    justify-content: space-between;
+}
+
+.home-page3{
+    height: 80vh;
+    background-image: url(imagess/home/3_raw.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.content3{
+    height: 48%;
+    width: 33%;
+    margin-top: 15%;
+    margin-left: 55%;
+}
+#cont3-heading{
+  text-align: center;
+   margin-bottom: 96px;
+}
+
+.home-page4{
+    height: 72vh;
+    background-image: url(imagess/home/4_raw.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-page4-content{
+    width: 33%;
+    height: 72%;
+    margin-top:5%;
+    margin-left:58%
+}
+
+#home-page4-button{
+    margin-top:56px;
+    width: 120px;
+    height: 32px;
+    margin-left:40%;
+}
+
+.home-page5{
+    height: 72vh;
+    background-image: url(imagess/home/5-row.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-page5-content{
+    height:72%;
+    width: 36%;
+    margin-top: 10%;
+    margin-left:36%;
+}
+footer{
+    height: 24vh;
+    background-color: rgba(12, 16, 51, 0.24);
+}
+.footer-content{
+    width:80%;
+    height: 20vh;
+    margin-left: 10%;
+    margin-top:20px;
+}
+.footer-header{
+    height: 10vh;
+    display:flex;
+    justify-content: space-between;
+}
+.links{
+    height: auto;
+    display:flex;
+    justify-content: space-between;
+}
+.local-links ul{
+    display: flex;
+}
+.local-links ul li{
+    list-style: none;
+    margin-right: 20px;
+}
+.social-media-links{
+    margin-right: 30px;
+    margin-top:18px;
+}
